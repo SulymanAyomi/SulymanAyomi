@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SulymanAyomi
-- 👀 I’m interested in Python, Javascript, Django, vue and react
-- 🌱 I’m currently learning Django and React
+- 👀 I’m interested in building amazing projects
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me sulymanayomi@gmail.com
 
